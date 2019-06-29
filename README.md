@@ -1,2 +1,3 @@
-# TF2---colab
-TF2 training
+# Tensorflow 2.0 training colab files
+
+
